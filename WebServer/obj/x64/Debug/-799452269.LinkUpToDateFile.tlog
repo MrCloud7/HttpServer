@@ -1,1 +1,0 @@
-g++ -o "/home/cloud/projects/WebServer/bin/x64/Debug/WebServer.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/cloud/projects/WebServer/obj/x64/Debug/main.o /home/cloud/projects/WebServer/obj/x64/Debug/server.o
